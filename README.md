@@ -1,3 +1,9 @@
+# **💡 About This Repository**  
+This repository contains **hands-on projects** focused on **machine learning, data analysis, and visualization**.  
+Each project includes **detailed EDA, preprocessing steps, feature engineering, and model implementation** to help improve predictive performance.  
+
+---
+
 # **Projects Overview**  
 
 ## **[Project 1: Housing Prices Prediction (Kaggle Competition)](./Competition) 🏠**  
@@ -37,9 +43,4 @@ A deep learning-based binary classification task using **Neural Networks**.
 - ✅ Neural Network Implementation  
 - ✅ Binary Classification  
 
----
-
-### **💡 About This Repository**  
-This repository contains **hands-on projects** focused on **machine learning, data analysis, and visualization**.  
-Each project includes **detailed EDA, preprocessing steps, feature engineering, and model implementation** to help improve predictive performance.  
 
